@@ -50,45 +50,8 @@ SwissProt ориентирован на высококачественные а�
 
 <ins>% сходства между соответствующими рРНК</ins>
 
-Similarity for rRNA 341494...343033
-Sequence = scaffold73_cov665, Similarity = ['100%']
-Sequence = scaffold3_cov273, Similarity = ['100%']
-Similarity for rRNA 343487...346374
-Sequence = scaffold69_cov665, Similarity = ['100%']
-Sequence = scaffold68_cov665, Similarity = ['100%']
-Sequence = scaffold70_cov714, Similarity = ['100%']
-Similarity for rRNA 346568...346684
-Sequence = scaffold69_cov665, Similarity = ['100%']
-Sequence = scaffold3_cov273, Similarity = ['100%']
-Similarity for rRNA 2580484...2580600
-Sequence = scaffold69_cov665, Similarity = ['99%']
-Sequence = scaffold3_cov273, Similarity = ['97%']
-Similarity for rRNA 2580781...2583668
-Sequence = scaffold69_cov665, Similarity = ['100%']
-Sequence = scaffold68_cov665, Similarity = ['100%']
-Sequence = scaffold70_cov714, Similarity = ['100%']
-Similarity for rRNA 2583918...2585457
-Sequence = scaffold73_cov665, Similarity = ['99%']
-Sequence = scaffold3_cov273, Similarity = ['100%']
-Similarity for rRNA 3418645...3418761
-Sequence = scaffold69_cov665, Similarity = ['100%']
-Sequence = scaffold3_cov273, Similarity = ['100%']
-Similarity for rRNA 3418942...3421829
-Sequence = scaffold69_cov665, Similarity = ['100%']
-Sequence = scaffold68_cov665, Similarity = ['100%']
-Sequence = scaffold70_cov714, Similarity = ['100%']
-Similarity for rRNA 3422079...3423618
-Sequence = scaffold73_cov665, Similarity = ['99%']
-Sequence = scaffold3_cov273, Similarity = ['100%']
-Similarity for rRNA 3423993...3424109
-Sequence = scaffold69_cov665, Similarity = ['100%']
-Sequence = scaffold3_cov273, Similarity = ['100%']
-Similarity for rRNA 3424290...3427177
-Sequence = scaffold69_cov665, Similarity = ['100%']
-Sequence = scaffold68_cov665, Similarity = ['100%']
-Sequence = scaffold70_cov714, Similarity = ['100%']
-Similarity for rRNA 3427427...3428966
-Sequence = scaffold73_cov665, Similarity = ['99%']
-Sequence = scaffold3_cov273, Similarity = ['100%']
+<img width="414" alt="Снимок экрана 2024-10-27 в 21 59 30" src="https://github.com/user-attachments/assets/a4c49515-8fa3-496f-9fe4-7d165f7f7f41">
+
+
 
 Можно считать, что предсказание рРНК было успешным, так как были найдены 12 уникальных рибосомальных РНК с высокими уровнями сходства, за исключением нескольких последовательностей, где есть небольшие отклонения возможно из-за мутаций. Более того, в родственной бактерии Thalassolituus oleivorans MIL-1 также насчитывается 12 рРНК, то есть были найдены все последовательности. 
